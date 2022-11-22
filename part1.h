@@ -176,6 +176,8 @@ void delete_CP(char* c, char* p, HASHTABLE_CP ht) {
 
 void print_CR(HASHTABLE_CR ht) {
     for (int i = 0; i < DATABASE_SIZE; i++) {
-        if (ht[i])
+        if (ht[i]){
+            printf("hi");
+        }
     }
 }

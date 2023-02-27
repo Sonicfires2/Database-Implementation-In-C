@@ -1,11 +1,9 @@
-# Project-4
-
 # An implementation for a database in C. 
 
 Collaborators:
-Minh Nguyen - mnguy31@u.rochester.edu
-Shun Agata - sagata@u.rochester.edu
-Fenway Powers - fpowers4@u.rochester.edu
+Minh 
+Shun 
+Fenway
 
 Note on project:
 + In the tuple definition, I used pointers instead of char array (char* instead of char[20] for example), and I HAVE ASKED the professor about this.
